@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a628cc49-9827-4643-8f7b-66394d0fe28a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MathEngine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Engine/Matrices/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Engine/Matrices/matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Engine/Matrices/operations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Engine/Matrices/operations/arithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Engine/Matrices/operations/linear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Engine/Vectors/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Input/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Input/receiveInput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="17" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000052527114" />
+      <entry key="S5" value="1.00134292524665" />
+      <entry key="S10" value="1.1103570188460987" />
+      <entry key="S30" value="4.066575159647532" />
+      <entry key="S60" value="8.981213404959856" />
+      <entry key="M2" value="14.445338158372413" />
+      <entry key="M5" value="29.879184382535996" />
+      <entry key="M10" value="92.58509616328257" />
+      <entry key="M15" value="170.9398611692794" />
+      <entry key="M30" value="362.3935901768336" />
+      <entry key="H1" value="612.0190466193413" />
+      <entry key="H2" value="1129.6390626355974" />
+      <entry key="H4" value="2158.4499111056025" />
+      <entry key="D1" value="4877.3908915079965" />
+      <entry key="W1" value="5754.988510303849" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="7.832939112337065E-187" />
+      <entry key="S5" value="3.610521207208208E-75" />
+      <entry key="S10" value="6.008761276010391E-38" />
+      <entry key="S30" value="3.9167722376597357E-13" />
+      <entry key="S60" value="6.258774235899067E-7" />
+      <entry key="M2" value="7.992153954627215E-4" />
+      <entry key="M5" value="0.07858972517622838" />
+      <entry key="M10" value="0.6540627183546949" />
+      <entry key="M15" value="1.6076064397408527" />
+      <entry key="M30" value="4.650552761735375" />
+      <entry key="H1" value="9.256724293826547" />
+      <entry key="H2" value="17.76845071024738" />
+      <entry key="H4" value="35.12970150491677" />
+      <entry key="D1" value="85.59634541379474" />
+      <entry key="W1" value="102.7426831885695" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9265880618903709" />
+      <entry key="MS500" value="0.9848664428955506" />
+      <entry key="S2" value="0.9961949532619098" />
+      <entry key="S5" value="0.9998004802309137" />
+      <entry key="S10" value="1.1085359164180606" />
+      <entry key="S30" value="4.051658357562093" />
+      <entry key="S60" value="8.960732540113975" />
+      <entry key="M2" value="14.428700335590802" />
+      <entry key="M5" value="29.944557185412382" />
+      <entry key="M10" value="93.2247129376857" />
+      <entry key="M15" value="172.53176850551475" />
+      <entry key="M30" value="367.02834344580907" />
+      <entry key="H1" value="621.2623635579334" />
+      <entry key="H2" value="1147.395179196039" />
+      <entry key="H4" value="2193.56724314093" />
+      <entry key="D1" value="4962.982012854779" />
+      <entry key="W1" value="5857.730289398709" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Dz7c3tfdIUw4dQTXino8bM6MNz" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Main.py.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.receiveInput.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main.py" type="PythonConfigurationType" factoryName="Python">
+      <module name="MathEngine" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14" />
+      <option name="WORKING_DIRECTORY" value="D:\programmieren\Python\MathEngine" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.24374.152" />
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a628cc49-9827-4643-8f7b-66394d0fe28a" name="Changes" comment="" />
+      <created>1779273122262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779273122262</updated>
+      <workItem from="1779273123314" duration="9647000" />
+      <workItem from="1779303665635" duration="9653000" />
+      <workItem from="1779463848074" duration="6001000" />
+      <workItem from="1779534807123" duration="17482000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MathEngine$Main_py.coverage" NAME="Main.py Coverage Results" MODIFIED="1779572764355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:\programmieren\Python\MathEngine" />
+    <SUITE FILE_PATH="coverage/MathEngine$receiveInput.coverage" NAME="receiveInput Coverage Results" MODIFIED="1779274163530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Input" />
+    <SUITE FILE_PATH="coverage/MathEngine$main.coverage" NAME="main Coverage Results" MODIFIED="1779274178902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
